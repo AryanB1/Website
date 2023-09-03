@@ -33,26 +33,14 @@ const projectList = [
   {
     title: "Custom Language Interpreter",
     description:
-      "Developed a custom interpreter for a simple programming language, implementing tokenization, parsing, and interpretation of code expressions and statements.",
+      "A custom interpreter for a simple programming language, implementing tokenization, parsing, and interpretation of code expressions and statements.",
     url: "https://github.com/AryanB1/Compiler",
   },
   {
     title: "Encryption and Decryption Algorithm",
     description:
-      "",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
-  },
-  {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "An algorithm that encrypts ASCII text using unique mathematical operations and decrypts the encrypted message by parsing an auto-generated decryption key.",
+    url: "https://github.com/AryanB1/Algorithm",
   },
 ];
 
