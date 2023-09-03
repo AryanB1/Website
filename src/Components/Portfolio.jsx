@@ -31,15 +31,15 @@ const imageAltText = "A series of random lines and numbers on a screen.";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Custom Language Interpreter",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Developed a custom interpreter for a simple programming language, implementing tokenization, parsing, and interpretation of code expressions and statements.",
+    url: "https://github.com/AryanB1/Compiler",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Encryption and Decryption Algorithm",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
+      "",
     url: "https://github.com/microsoft/web-dev-for-beginners",
   },
   {
